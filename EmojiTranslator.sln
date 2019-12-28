@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emoooooji.Android", "EmojiTranslator.Android\Emoooooji.Android.csproj", "{3D2A36C9-88AE-4198-AC2F-1766AB55797A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Emoooooji", "EmojiTranslator\Emoooooji.csproj", "{9D0DCB6C-4432-4266-96B0-0902C96892EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseBuilder", "DatabaseBuilder\DatabaseBuilder.csproj", "{101A916E-0B38-404B-93A6-B48EAF7EECA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D2A36C9-88AE-4198-AC2F-1766AB55797A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2A36C9-88AE-4198-AC2F-1766AB55797A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D2A36C9-88AE-4198-AC2F-1766AB55797A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3D2A36C9-88AE-4198-AC2F-1766AB55797A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D2A36C9-88AE-4198-AC2F-1766AB55797A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D2A36C9-88AE-4198-AC2F-1766AB55797A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{9D0DCB6C-4432-4266-96B0-0902C96892EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D0DCB6C-4432-4266-96B0-0902C96892EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D0DCB6C-4432-4266-96B0-0902C96892EB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9D0DCB6C-4432-4266-96B0-0902C96892EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D0DCB6C-4432-4266-96B0-0902C96892EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D0DCB6C-4432-4266-96B0-0902C96892EB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{101A916E-0B38-404B-93A6-B48EAF7EECA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101A916E-0B38-404B-93A6-B48EAF7EECA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101A916E-0B38-404B-93A6-B48EAF7EECA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101A916E-0B38-404B-93A6-B48EAF7EECA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DF173E9-7421-4D28-B3DF-4A06E02973CA}
+	EndGlobalSection
+EndGlobal

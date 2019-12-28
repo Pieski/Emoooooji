@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="Emoooooji.Emoooooji" android:installLocation="auto">
+	<uses-sdk android:minSdkVersion="28" android:targetSdkVersion="27" />
+	<application android:label="Emoooooji" android:icon="@mipmap/icon"></application>
+</manifest>
