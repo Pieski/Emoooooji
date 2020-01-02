@@ -12,6 +12,6 @@
         <Entry x:Name="EntryBox" Placeholder="" Completed="OnEntryCompleted"/>
         <Label Text="在上方的横线输入中文并按下“完成”后，下方将显示结果"/>
         <Entry Margin="0,200,0,0" x:Name="ShowBox" Text="" IsEnabled="True"  />
-        <Label Text="Emoooooji v0.3b6 —— Pieski Tsao @ 鬼人扬马人王"/>
+        <Label Text="Emoooooji v1.0b —— Pieski Tsao @ 鬼人扬马人王"/>
     </StackLayout>
 </ContentPage>

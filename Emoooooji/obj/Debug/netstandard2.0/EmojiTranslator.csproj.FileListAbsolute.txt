@@ -1,0 +1,14 @@
+D:\Projects\EmojiTranslator\EmojiTranslator\bin\Debug\netstandard2.0\EmojiTranslator.deps.json
+D:\Projects\EmojiTranslator\EmojiTranslator\bin\Debug\netstandard2.0\EmojiTranslator.dll
+D:\Projects\EmojiTranslator\EmojiTranslator\bin\Debug\netstandard2.0\ref\EmojiTranslator.dll
+D:\Projects\EmojiTranslator\EmojiTranslator\bin\Debug\netstandard2.0\EmojiTranslator.pdb
+D:\Projects\EmojiTranslator\EmojiTranslator\obj\Debug\netstandard2.0\EmojiTranslator.csprojAssemblyReference.cache
+D:\Projects\EmojiTranslator\EmojiTranslator\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projects\EmojiTranslator\EmojiTranslator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Projects\EmojiTranslator\EmojiTranslator\obj\Debug\netstandard2.0\EmojiTranslator.csproj.CoreCompileInputs.cache
+D:\Projects\EmojiTranslator\EmojiTranslator\obj\Debug\netstandard2.0\EmojiTranslator.AssemblyInfoInputs.cache
+D:\Projects\EmojiTranslator\EmojiTranslator\obj\Debug\netstandard2.0\EmojiTranslator.AssemblyInfo.cs
+D:\Projects\EmojiTranslator\EmojiTranslator\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Projects\EmojiTranslator\EmojiTranslator\obj\Debug\netstandard2.0\EmojiTranslator.dll
+D:\Projects\EmojiTranslator\EmojiTranslator\obj\Debug\netstandard2.0\ref\EmojiTranslator.dll
+D:\Projects\EmojiTranslator\EmojiTranslator\obj\Debug\netstandard2.0\EmojiTranslator.pdb
