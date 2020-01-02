@@ -84,14 +84,12 @@ namespace DatabaseBuilder
 
         public static byte GetWordHash(string word, Encoding encoding)
         {
-            /*
             int hash32 = 1;
             byte[] wordbytes = encoding.GetBytes(word);
             foreach (byte wordbyte in wordbytes)
                 hash32 *= wordbyte;
             hash32 *= hash32;
-            return BitConverter.GetBytes(hash32)[BitConverter.GetBytes(hash32).Length - 2];*/
-            return encoding.GetBytes(word)[encoding.GetBytes(word).Length - 1];
+            return BitConverter.GetBytes(hash32)[BitConverter.GetBytes(hash32).Length - 2];
         }   
     }
 }

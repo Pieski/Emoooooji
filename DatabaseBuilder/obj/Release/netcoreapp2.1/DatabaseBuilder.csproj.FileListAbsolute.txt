@@ -1,0 +1,11 @@
+D:\Projects\EmojiTranslator\DatabaseBuilder\bin\Release\netcoreapp2.1\DatabaseBuilder.deps.json
+D:\Projects\EmojiTranslator\DatabaseBuilder\bin\Release\netcoreapp2.1\DatabaseBuilder.runtimeconfig.json
+D:\Projects\EmojiTranslator\DatabaseBuilder\bin\Release\netcoreapp2.1\DatabaseBuilder.runtimeconfig.dev.json
+D:\Projects\EmojiTranslator\DatabaseBuilder\bin\Release\netcoreapp2.1\DatabaseBuilder.dll
+D:\Projects\EmojiTranslator\DatabaseBuilder\bin\Release\netcoreapp2.1\DatabaseBuilder.pdb
+D:\Projects\EmojiTranslator\DatabaseBuilder\obj\Release\netcoreapp2.1\DatabaseBuilder.csprojAssemblyReference.cache
+D:\Projects\EmojiTranslator\DatabaseBuilder\obj\Release\netcoreapp2.1\DatabaseBuilder.csproj.CoreCompileInputs.cache
+D:\Projects\EmojiTranslator\DatabaseBuilder\obj\Release\netcoreapp2.1\DatabaseBuilder.AssemblyInfoInputs.cache
+D:\Projects\EmojiTranslator\DatabaseBuilder\obj\Release\netcoreapp2.1\DatabaseBuilder.AssemblyInfo.cs
+D:\Projects\EmojiTranslator\DatabaseBuilder\obj\Release\netcoreapp2.1\DatabaseBuilder.dll
+D:\Projects\EmojiTranslator\DatabaseBuilder\obj\Release\netcoreapp2.1\DatabaseBuilder.pdb
