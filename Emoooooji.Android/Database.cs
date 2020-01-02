@@ -24,7 +24,7 @@ namespace EmojiTranslator.Droid
         internal static void LoadDatabase()
         {
             for (int i = 0; i < 256; i++)
-                Database.MeaningList[i] = new List<string>();
+                EmojiTranslator.Database.MeaningList[i] = new List<string>();
             Database.MainDatabase = new string[256][];
             Stream ipts = Manager.Open("MainDatabase.dat");
             StreamReader reader = new StreamReader(ipts);

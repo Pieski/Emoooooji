@@ -110,8 +110,8 @@
     <Folder Include="Resources\drawable\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\EmojiTranslator\Emoooooji.csproj">
-      <Project>{9D0DCB6C-4432-4266-96B0-0902C96892EB}</Project>
+    <ProjectReference Include="..\Emoooooji\Emoooooji.csproj">
+      <Project>{50744c8d-9db4-464a-987f-4008d6709204}</Project>
       <Name>Emoooooji</Name>
     </ProjectReference>
   </ItemGroup>
